@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ulysses/CLionProjects/untitled/global_local_variable.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/ulysses/CLionProjects/untitled/variable.c
+stdio.h
+-
+

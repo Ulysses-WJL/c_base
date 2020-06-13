@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled.dir/datatype.c.o CMakeFiles/untitled.dir/variable.c.o CMakeFiles/untitled.dir/global_local_variable.c.o  -o untitled 
